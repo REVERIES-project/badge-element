@@ -1,0 +1,29 @@
+{
+  "name": "badge-element",
+  "description": "A simple badge",
+  "main": "badge-element.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "staticmedia-viewer": "REVERIES-project/staticmedia-viewer",
+    "common-styles": "REVERIES-project/common-styles"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^6.0.0-prerelease.5",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/REVERIES-project/badge-element",
+  "_release": "1d2470464e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1d2470464e56d3b3e669ee6fa500b1f60d1b9746"
+  },
+  "_source": "https://github.com/REVERIES-project/badge-element.git",
+  "_target": "master",
+  "_originalSource": "REVERIES-project/badge-element",
+  "_direct": true
+}
